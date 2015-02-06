@@ -1,3 +1,8 @@
+body {
+    background-image: url("http://i.imgur.com/RItbrWC.png");
+	background-size: cover;
+    background-repeat: no-repeat;
+}
 .aspectlist {
 	list-style:none;
 	padding:0;
@@ -22,7 +27,8 @@
 	cursor:pointer;
 }
 .aspectlist > li.aspect:hover {
-	background:#DDD;
+	background-image: url("http://i.imgur.com/xtySlv2.png");
+    background-size: 159px 60px;
 	color:#000;
 	font-weight:bold;
 }
