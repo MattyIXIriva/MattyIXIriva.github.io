@@ -10,6 +10,7 @@
 .navbar-brand{
 	font-size: 20px;
 	font-weight: bold;
+	padding: 5px;
 }
 .active{
 	border-radius: 5px;
